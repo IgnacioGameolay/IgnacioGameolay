@@ -20,6 +20,8 @@ A student passionate about programming, artificial intelligence, innovations in 
 <p align="left">
 <a href="https://discord.gg/IgnaGM#5047" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="IgnaGM#5047" height="80" width="80" /></a>
 <a href="https://www.instagram.com/igna_reyes_t/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Igna_reyes_t" height="80" width="80" /></a>
+<a href="[https://www.instagram.com/igna_reyes_t/](https://www.linkedin.com/in/ignacio-antonio-reyes-toledo-355a8720b/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Igna_reyes_t" height="80" width="80" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
