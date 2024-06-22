@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm IgnaGM</h1>
+<h1 align="center">Hi 👋, I'm IgnaGM ![toothless-dragon-toothless_2](https://github.com/IgnacioGameolay/IgnacioGameolay/assets/45189062/222ab160-76f8-4263-af26-32d19b67deef)
+</h1>
 <h3 align="center">A student passionate about programming, artificial intelligence, innovations in the area of IT, data science and computer science, I love to learn and give the best of me.</h3>
 
-- 🔭 I’m currently studying **Computer Science 👨‍💻**
+- 🔭 I’m currently studying **Civil Computer Engineering (smth like CS) 👨‍💻**
 
 - 🌱 I’m currently learning **Data science and I.A 👨‍💻**
 
 - 💬 Ask me about **Python 🤝**
 
-- ⚡ Fun fact **I´m a chess player and BJJer**
+- ⚡ Fun fact **I am captain of my university chess team and I´m BJJer too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
