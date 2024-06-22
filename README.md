@@ -1,12 +1,12 @@
 <div align="center">
   
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> &nbsp; I'm IgnaGM &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" />
+# <img src="https://media.tenor.com/2Jcp2gPh78oAAAAi/crown-joypixels.gif" width="70px" /> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> &nbsp; I'm IgnaGM &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> <img src="https://media.tenor.com/2Jcp2gPh78oAAAAi/crown-joypixels.gif" width="70px" />
 
-A student passionate about programming, artificial intelligence, innovations in the area of IT, data science and computer science, I love to learn and give the best of me.</h3>
+A student passionate about programming, artificial intelligence, innovations in the area of IT, data science and computer science, I love to learn and give the best of me.  
+<img src="https://media.tenor.com/E8SPbU0OT_gAAAAi/music-party.gif" width="70px" /> </h3>
 </div>
 
-
-- 🔭 I’m currently studying **Civil Computer Engineering (smth like CS) 👨‍💻**
+- 🔭 I’m currently studying **Civil Computer Engineering (smth like CS) 👨‍💻** 
 
 - 🌱 I’m currently learning **Data science and I.A 👨‍💻**
 
