@@ -1,6 +1,6 @@
 <div align="center">
   
-#<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi 👋, I'm IgnaGM &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> &nbsp; I'm IgnaGM &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" />
 
 A student passionate about programming, artificial intelligence, innovations in the area of IT, data science and computer science, I love to learn and give the best of me.</h3>
 </div>
@@ -19,28 +19,40 @@ A student passionate about programming, artificial intelligence, innovations in 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/IgnaGM#5047" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="IgnaGM#5047" height="80" width="80" /></a>
+<a href="https://www.instagram.com/igna_reyes_t/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Igna_reyes_t" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="100" height="50"/> </a> 
-  
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+<div align="center">
+
+  <!-- PYTHON -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="80" height="80"/>
+
+  <!-- VSCode -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="python" width="80" height="80"/>
+ 
+  <!-- PANDAS --> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/> 
+
+  <!-- MATHLAB --> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="80" height="80"/> 
   
-  </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/> 
+  <!-- PHOTOSHOP --> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/> 
+
+  <!-- SCIKIT --> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/> 
+
+  <!-- SEABORN --> 
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/> 
+
+  <!-- GITHUB --> 
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="120" height="60"/> 
+
+  <!-- UBUNTU -->
   
-  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="80" height="80"/> </a> 
-  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" alt="python" width="100" height="100"/>
+
+  </dev>
