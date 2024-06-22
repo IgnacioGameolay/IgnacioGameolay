@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm IgnaGM
-</h1>
-<h3 align="center">A student passionate about programming, artificial intelligence, innovations in the area of IT, data science and computer science, I love to learn and give the best of me.</h3>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi 👋, I'm IgnaGM; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+A student passionate about programming, artificial intelligence, innovations in the area of IT, data science and computer science, I love to learn and give the best of me.</h3>
+
+
 
 - 🔭 I’m currently studying **Civil Computer Engineering (smth like CS) 👨‍💻**
 
