@@ -12,7 +12,7 @@ A student passionate about programming, artificial intelligence, innovations in 
 
 - 💬 Ask me about **Python 🤝**
 
-- ⚡ Fun fact **I am captain of my university chess team and I´m BJJer too**
+- ⚡ Fun fact **I am captain of my university's chess team and I´m BJJer too**
 
 - ![toothless-dragon-toothless_2](https://github.com/IgnacioGameolay/IgnacioGameolay/assets/45189062/0deb43dc-0312-4132-abf4-fce47c27a57b)
 
